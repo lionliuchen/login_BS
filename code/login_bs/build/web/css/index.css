@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-3-17, 12:56:59
+    Author     : Tom
+*/
+
+body{
+    font-family: "Microsoft YaHei";
+    font-size: 20px;
+}
+.titlecontent{
+    font-size: 80px;
+    color: #FFF;
+    text-align: center;
+}
+i{
+    color: #c9302c;
+}
